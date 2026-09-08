@@ -1,5 +1,12 @@
 # @ai-sdk/openai
 
+## 4.0.63
+
+### Patch Changes
+
+- 5fb2a64: feat(openai): add GPT Image 2.5 Flare and Sunburst model IDs
+- e105b2b: fix(openai): reject denied programmatic tool calls
+
 ## 4.0.62
 
 ### Patch Changes
