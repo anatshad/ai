@@ -1,5 +1,11 @@
 # @ai-sdk/openai
 
+## 2.0.126
+
+### Patch Changes
+
+- a15b75a: Add async function tool calling support for OpenAI Responses models.
+
 ## 2.0.125
 
 ### Patch Changes
